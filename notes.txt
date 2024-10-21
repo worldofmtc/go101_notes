@@ -1,0 +1,11 @@
+KAYNAKLAR : 
+
+https://www.w3schools.com/go
+
+
+
+
+İNGİLİZCE SÖZLÜK : 
+declared = ilan edildi
+array = dizi
+veriable = değişken
