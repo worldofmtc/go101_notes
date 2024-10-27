@@ -166,10 +166,11 @@ fmt.Println("Golang öğreniyorum.")
 fmt.Printf(): Biçimlendirilmiş yazdırma yapmak için kullanılır. % ile belirtilen format belirteçlerini kullanarak çıktıyı özelleştirebiliriz.
 
 ### Temel Format Belirteçleri:
-    * %d: Tamsayı (int)
-    * %f: Ondalıklı sayı (float64)
-    * %s: Dize (string)
-    * %t: Boolean (bool)
+
+   * %d: Tamsayı (int)
+   * %f: Ondalıklı sayı (float64)
+   * %s: Dize (string)
+   * %t: Boolean (bool)
 
 ```go
     var isim string = "Ahmet"
