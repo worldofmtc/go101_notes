@@ -10,8 +10,11 @@ Go dilinde bir program `main` paketinde yazılır ve çalıştırılabilir bir d
 package main
 
 func main() {
-    // Kodlar buraya yazılır
+      
 }
+
+```
+
 Değişken Tanımlama Yöntemleri
 Go dilinde değişkenler üç farklı şekilde tanımlanabilir:
 
