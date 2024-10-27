@@ -42,9 +42,9 @@ func main() {
 2. Mantıksal Operatörler
 Bu operatörler birden fazla koşulu birleştirmek için kullanılır.
 
-  *  && : Ve (And) operatörü. Tüm koşullar true olduğunda true döner.
-  *  || : Veya (Or) operatörü. En az bir koşul true olduğunda true döner.
-  *  ! : Değil (Not) operatörü. Sonucu tersine çevirir.
+  *  `&&` : Ve (And) operatörü. Tüm koşullar true olduğunda true döner.
+  *  `||` : Veya (Or) operatörü. En az bir koşul true olduğunda true döner.
+  *  `!` : Değil (Not) operatörü. Sonucu tersine çevirir.
 
 
 
