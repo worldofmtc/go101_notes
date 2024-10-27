@@ -11,12 +11,12 @@ Bu derste Go dilinde koşullu ifadeleri kullanarak karar yapıları oluşturmay�
 1. Karşılaştırma Operatörleri
 Bu operatörler iki değeri karşılaştırmak için kullanılır ve boolean (true veya false) bir sonuç döndürür.
 
-  *  == : Eşitlik kontrolü
-  *  != : Eşit olmama durumu
-  *  > : Büyüktür
-  *  < : Küçüktür
-  *  >= : Büyük veya eşittir
-  *  <= : Küçük veya eşittir
+  *  `==` : Eşitlik kontrolü
+  *  `!=` : Eşit olmama durumu
+  *  `>` : Büyüktür
+  *  `<` : Küçüktür
+  *  `>=` : Büyük veya eşittir
+  *  `<=` : Küçük veya eşittir
 
 
 ````go
