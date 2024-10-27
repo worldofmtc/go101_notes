@@ -1,6 +1,6 @@
 # Go101 Ders 1 - Değişken Tanımlama
 
-Bu derste Go dilinde değişken tanımlama ve `const` kullanımını göreceğiz.
+Bu derste Go dilinde değişken tanımlama  `const` ve `var` kullanımını göreceğiz.
 
 ## Go Program Yapısı
 
