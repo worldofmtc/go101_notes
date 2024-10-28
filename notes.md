@@ -16,8 +16,8 @@
 
 
 ## İNGİLİZCE SÖZLÜK : 
-use = kullanmak
-declared = ilan edildi
-array = dizi
-veriable = değişken
-contidion = şart
+*    use = kullanmak
+*    declared = ilan edildi
+*    array = dizi
+*    veriable = değişken
+*    contidion = şart
