@@ -34,8 +34,3 @@ func main() {
 	fmt.Println(len(dizi))
 
 }
-
-func Arttir(sayi int) int {
-	sayi++      // burada artırma işlemi yapılır
-	return sayi // artırılmış değeri döndürür
-}
